@@ -20,7 +20,7 @@ function decrement(n) {
 }
 function makeInt(n) {
   var n = parseInt('n')
-  return n
+  return 0
 }
 function preserveDecimal(n) {
   parseFloat('n')
