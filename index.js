@@ -18,7 +18,7 @@ function decrement(n) {
   var n = n - 1
   return n--
 }
-function makeInt(n, base) {
+function makeInt(n, 10) {
   parseInt('n', 10)
   return n
 }
