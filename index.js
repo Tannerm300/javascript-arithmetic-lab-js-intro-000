@@ -19,7 +19,7 @@ function decrement(n) {
   return n--
 }
 function makeInt(n) {
-  var n = parseInt(n)
+  var n = parseInt('n')
   return n
 }
 function preserveDecimal(n) {
